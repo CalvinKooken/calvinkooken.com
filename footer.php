@@ -4,7 +4,7 @@
         <div id="contact" class="contentContainer">
             <div class="moduleHeading">
         <h2>Contact</h2>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+        <p></p>
     </div>
 			<div class="contact">
 			<div class="left_1">
