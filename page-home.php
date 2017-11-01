@@ -13,9 +13,7 @@ Template Name: Home Page
     <div class="moduleContent">
         <div class="left_1">
             <h3>About</h3>
-            <p>Web Developer with proven background creating high quality web
-experiences providing strong user experience and high search engine
-visibility</p>
+            <p>Calvin is a Web Developer proficient in creating web experiences that are technically sound while advocating for and executing upon strong user experience, accessibility and optimal search engine visibility standards.</p>
 			<p><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:1-860-682-5987">(860) 682-5987</a></p>
 			<p><i class="fa fa-linkedin" aria-hidden="true"></i><a href="https://www.linkedin.com/in/kooken/">Linkedin - Calvin Kooken</a></p>
 			<p><i class="fa fa-envelope-o" aria-hidden="true"></i><a href="mailto:cmkooken@gmail.com">cmkooken@gmail.com</a></p>
@@ -35,7 +33,7 @@ visibility</p>
     <div id="experience" class="contentContainer">
         <div class="moduleHeading">
         <h2>Experience and Education</h2>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+        <p></p>
     </div>
         <div class="experienceBlock">
         <div class="left_2"><p><b>STA Digital</b>, ​Chicago, IL — ​Web Developer</p></div>
@@ -60,7 +58,7 @@ Manager</p></div>
     <div id="skills" class="contentContainer">
         <div class="moduleHeading">
         <h2>Skills</h2>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+        <p></p>
     </div>
         <div class="clear"></div>
         <div class="skillBlock">
@@ -95,8 +93,8 @@ Manager</p></div>
 <div class="greenbg">
     <div id="case" class="contentContainer">
         <div class="moduleHeading">
-        <h2>Case Studies</h2>
-        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium</p>
+        <h2>Portfolio</h2>
+        <p>Examples of development work done by Calvin Kooken</p>
     </div>
         <div class="left_1">
 			<div class="caseStudy">
