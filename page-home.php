@@ -37,7 +37,7 @@ Template Name: Home Page
     </div>
         <div class="experienceBlock">
         <div class="left_2"><p><b>STA Digital</b>, ​Chicago, IL — ​Web Developer</p></div>
-        <div class="right_2"><p><i>August 2015 - May 2017</i></p><p>Web Development using html/css/jQuery/PHP and client consulting on UX/SEO</p></div>
+        <div class="right_2"><p><i>August 2015 - May 2017</i></p><p>Front and Back-end Web Development using html/css/jQuery/javascript/PHP and client consulting on UX/SEO.  After producing beautiful web experiences tasks included teaching clients to use CMS and maintaining custom sites long term.</p></div>
         <div class="clear"></div>
         </div>
         <div class="experienceBlock">

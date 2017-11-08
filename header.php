@@ -24,7 +24,7 @@
     <a href="#about"><p>About</p></a>
     <a href="#experience"><p>Experience</p></a>
     <a href="#skills"><p>Skills</p></a>
-    <a href="#case"><p>Case Studies</p></a>
+    <a href="#case"><p>Portfolio</p></a>
     <a href="#contact"><p>Contact</p></a>
 
 
